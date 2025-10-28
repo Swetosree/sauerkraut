@@ -1,5 +1,6 @@
 import pickle
 import base64
+import subprocess
 
 class Reveal:
     def __reduce__(self):
